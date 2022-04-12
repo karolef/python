@@ -10,3 +10,5 @@ numerical_palindrome_3.py - codewars problem Numerical Palindrome #3, you can so
 numerical_palindrome_3_5.py - codewars problem Numerical Palindrome #3.5: https://www.codewars.com/kata/58e2708f9bd67fee17000080/train/python
 
 numerical_palindrome_4.py - codewars problem Numerical Palindrome #4: https://www.codewars.com/kata/58df8b4d010a9456140000c7/train/python
+
+numerical_palindrome_5.py - codewars problem Numerical Palindrome #5: https://www.codewars.com/kata/58e26b5d92d04c7a4f00020a/train/python
